@@ -3,12 +3,9 @@
 ### I am a Software Engineer, and I love to code.
 <h3>I have worked on: </h3>
 <div>
-<img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white
-" alt="js"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white
-" alt="js"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white
-" alt="js"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" alt="js"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" alt="js"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" alt="js"/>
 
 </div>
 
