@@ -1,9 +1,9 @@
 ### Hello, I am Mitzek 👋
 
-### I am a Software Engineer, and I love to code.
-<h3>I have worked on: </h3>
+<h4> I am a Software Engineer, who loves to code. </h4>
+
 <div>
-  <h2> My Skillset: </h2>
+  <h6> My Skillset: </h6>
  
 <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" alt="js"/>
 <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow" alt="python"/>
